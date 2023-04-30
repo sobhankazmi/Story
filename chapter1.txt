@@ -1,1 +1,2 @@
-it is chapter 1 , and this line is for test
+it is chapter 1 , and this line is for test.
+section 2 is coming soon
